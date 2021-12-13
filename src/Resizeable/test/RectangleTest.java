@@ -1,6 +1,6 @@
-package com.codegym.test;
+package Resizeable.test;
 
-import com.codegym.geometric.Rectangle;
+import Resizeable.geometric.Rectangle;
 
 public class RectangleTest {
     public static void main(String[] args) {

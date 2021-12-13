@@ -1,4 +1,4 @@
-package com.codegym.geometric;
+package Resizeable.geometric;
 
 
 public class Shape  {

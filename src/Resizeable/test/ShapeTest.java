@@ -1,6 +1,6 @@
-package com.codegym.test;
+package Resizeable.test;
 
-import com.codegym.geometric.Shape;
+import Resizeable.geometric.Shape;
 
 public class ShapeTest {
 

@@ -1,4 +1,4 @@
-package com.codegym.inter;
+package Resizeable.inter;
 
 public interface resizeable {
     void resize(double percent);

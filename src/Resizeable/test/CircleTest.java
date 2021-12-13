@@ -1,6 +1,6 @@
-package com.codegym.test;
+package Resizeable.test;
 
-import com.codegym.geometric.Circle;
+import Resizeable.geometric.Circle;
 
 public class CircleTest {
     public static void main(String[] args) {

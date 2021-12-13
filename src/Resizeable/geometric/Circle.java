@@ -1,6 +1,6 @@
-package com.codegym.geometric;
+package Resizeable.geometric;
 
-import com.codegym.inter.resizeable;
+import Resizeable.inter.resizeable;
 
 public class Circle extends Shape implements resizeable {
     private double radius = 1.0;
