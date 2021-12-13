@@ -1,4 +1,4 @@
-package InterfaceCircle;
+package InterfaceComparable;
 
 import java.util.Arrays;
 

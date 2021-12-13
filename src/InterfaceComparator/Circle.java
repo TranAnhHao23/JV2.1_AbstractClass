@@ -1,14 +1,14 @@
-package InterfaceCircle;
+package InterfaceComparator;
 
 public class Circle {
-    private double radius;
-    private boolean filled;
-    private String color;
+    double radius;
+    boolean filled;
+    String color;
 
     public Circle() {
     }
 
-    public Circle(double radius, boolean filled,String color) {
+    public Circle(double radius, boolean filled, String color) {
         this.radius = radius;
         this.filled = filled;
         this.color = color;

@@ -1,4 +1,4 @@
-package InterfaceCircle;
+package InterfaceComparable;
 
 public class ComparableCircle extends Circle implements Comparable<Circle> {
 
